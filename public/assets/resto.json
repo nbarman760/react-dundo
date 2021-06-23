@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "KFC",
+        "rating": 4.5,
+        "address": "Kasba, Kolkata"
+    },
+    {
+        "id": 2,
+        "name": "Mc donald",
+        "rating": 4.7,
+        "address": "Behala, Kolkata"
+    },
+    {
+        "id": 3,
+        "name": "Arti Resturant",
+        "rating": 4.2,
+        "address": "Kasba, Kolkata"
+    },
+    {
+        "id": 4,
+        "name": "China Town",
+        "rating": 4.9,
+        "address": "Saltlake -1, Kolkata"
+    }
+]
